@@ -11,3 +11,8 @@ This course was developed by Gwen Faraday. Check out her YouTube channel:    /[@
 🔗 SSH Keys: [https://help.github.com/en/github/aut...](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 
 ## Sub Header
+
+##Local Development
+
+1. Open index.html in your browser.
+
